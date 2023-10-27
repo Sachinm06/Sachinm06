@@ -1,4 +1,4 @@
-# Hi there 👋   I'm Sachin Sibichan
+# Hey, I'm Sachin Sibichan, nice to meet you! 👋
 
 ## 💫 About Me:
 👨🏽‍💻 I work as a developer at PanApps Inc., focusing on Vue.js development.<br>
