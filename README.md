@@ -1,7 +1,7 @@
 # Hi there 👋   I'm Sachin Sibichan
 
 ## 💫 About Me:
-👨🏽‍💻 I'm currently employed as a developer at PanApps Inc. My focus is on Vue.js development.<br>
+👨🏽‍💻 I work as a developer at PanApps Inc., focusing on Vue.js development.<br>
 👥 I'm interested in collaborating on web development projects.<br>
 📚 I'm actively learning front-end development.<br>
 📝 Feel free to ask me anything related to web development.<br>
