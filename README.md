@@ -1,7 +1,11 @@
-# Hi there 👋   I'm Sachin M.Sibichan
+# Hi there 👋   I'm Sachin Sibichan
 
 ## 💫 About Me:
-👨🏽‍💻 I'm currently working on Mearn stack<br>👥 I'm looking to collaborate on web development projects<br>📚 I'm currently learning front end development<br>📝 Ask me about web development<br>😜 Fun fact - i am lazy but smart
+👨🏽‍💻 I'm currently employed as a developer at PanApps Inc. My focus is on Vue.js development.<br>
+👥 I'm interested in collaborating on web development projects.<br>
+📚 I'm actively learning front-end development.<br>
+📝 Feel free to ask me anything related to web development.<br>
+😜 Fun fact: I may be a bit lazy, but I like to think of myself as a smart developer.<br>
 
 
 ## 🌐 Socials:
